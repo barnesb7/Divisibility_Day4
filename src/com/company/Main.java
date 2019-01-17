@@ -14,7 +14,7 @@ public class Main {
                      i % 17 == 0 && i % 28 == 0 && i % 19 == 0 && i % 20 == 0){
 
                  System.out.println(i);
-                 //break;
+                 break;
              }
 
         }
